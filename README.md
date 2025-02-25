@@ -36,6 +36,3 @@ I’m currently focused on building GoGoVid.cc the streaming API for developers:
 - Working for **Recirculate Systems** a british startup aiming to bring the circular economy to any kind of busines as a fullstack developer and product owner.
 - Gained expertise in **fast-paced environments**, **scaling products**, and **delivering results**.  
 
----
-
-⭐️ From [Paolo](https://github.com/MrPaolinsky)
