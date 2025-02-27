@@ -18,9 +18,9 @@
 
 ## 📊 GitHub Stats
 
-![Paolo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrPaolinsky&show_icons=true&theme=radical)
+![Paolo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrPaolinsky&show_icons=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrPaolinsky&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrPaolinsky&layout=compact&theme=transparent)
 
 ## 🚀 What I'm Building
 
