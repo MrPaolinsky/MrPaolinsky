@@ -26,8 +26,7 @@
 
 I’m currently focused on building GoGoVid.cc the streaming API for developers:
 
-- **[GoGoVid](https://github.com/MrPaolinsky/gogovid-server):** The backend of my streaming API.  
-- **[Optisume](https://github.com/MrPaolinsky/optisume):** AI Powered resume maker for people fighting agains poorly manager AI recruitment tools. 
+- **[GoGoVid](https://github.com/MrPaolinsky/gogovid-server):** A video streaming API SaaS, for developers, completely built from scratch.  
 
 ## 💼 Work Experience
 
