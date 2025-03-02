@@ -35,7 +35,7 @@
 ## 💼 Work Experience
 
 - Worked with **Bold.co**, a fast growing Colombian fintech as a fullstack developer.
-- Worked as an iOS developer with **Zemoga**, one of the largest Colombian software factories for clients like apple, wallmart or spotify.
+- Worked as an iOS developer at **Zemoga**, one of the largest Colombian software factories for clients like apple, wallmart or spotify.
 - Working for **Recirculate Systems** a british startup aiming to bring the circular economy to any kind of busines as a fullstack developer and product owner.
 - Gained expertise in **fast-paced environments**, **scaling products**, and **delivering results**.  
 
