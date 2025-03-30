@@ -6,7 +6,7 @@
 💬 Ask me about **Golang**, **Svelte**, **TypeScript**, **Python**, **Swift** or **project management**.  
 📫 How to reach me: paolinskypdtn@pm.me or [my linkedin](https://www.linkedin.com/in/paolinsky/).  
 
-## 🔧 Technologies & Tools
+## 🔧 Favorite Technologies & Tools
 
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
