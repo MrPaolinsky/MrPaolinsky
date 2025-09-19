@@ -26,12 +26,6 @@
 
 - **[GoGoVid](https://github.com/MrPaolinsky/gogovid-server):** A video streaming API SaaS, for developers, completely built from scratch.  
 
-## 📖 What I'm Learning
-
-- **DRM protection**: How streaming services protect their content so it can only be viewed in the right place and can not be ilegally downloaded or reproduced.
-- **Deno**: The best JS runtime (Or that is what they say).
-- **Fresh**: The deno fullstack framework.
-
 ## 💼 Work Experience
 
 - Worked with **Bold.co**, a fast growing Colombian fintech as a fullstack developer.
